@@ -1,2 +1,2 @@
 # capybara
-Learning go by writing something in it.
+OS in Rust
